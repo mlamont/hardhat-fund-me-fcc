@@ -1,3 +1,7 @@
+# Hi! I'm learning...
+
+Looks like this README.md is the same as the source I'm learning from. To be clear: I'm not claiming ownership of this material, but instead am learning along with the course... thanks, Patrick C!
+
 # Hardhat Fund Me
 
 *This repo has been updated to work with Sepolia Testnet over Goerli.*
